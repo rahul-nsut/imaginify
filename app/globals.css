@@ -334,8 +334,6 @@
   .sidebar-link {
     @apply p-16-semibold flex size-full gap-4 p-4;
   }
-
-  /* TransformationForm Component */
   .prompt-field {
     @apply flex flex-col gap-5 lg:flex-row lg:gap-10;
   }
@@ -343,8 +341,6 @@
   .media-uploader-field {
     @apply grid h-fit min-h-[200px] grid-cols-1 gap-5 py-4 md:grid-cols-2;
   }
-
-  /* TransformedImage Component */
   .download-btn {
     @apply p-14-medium mt-2 flex items-center gap-2 px-2;
   }
